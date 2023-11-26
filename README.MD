@@ -1,6 +1,6 @@
 # ChestLock
 
-CraftGPT is a Minecraft plugin enabling users to secure their chests with signs, designed as an updated replacement for the no longer maintained original ChestLock plugin.
+ChestLock is a Minecraft plugin enabling users to secure their chests with signs, designed as an updated replacement for the no longer maintained original ChestLock plugin.
 
 ## Installation
 
